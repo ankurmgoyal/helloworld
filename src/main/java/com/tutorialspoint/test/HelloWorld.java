@@ -24,6 +24,7 @@ public class HelloWorld {
    }
    
    public void setMessageBean(Message message) {
+	   System.out.println("I HOPE THIS WORKS!");
       this.messageBean = message;
    }
 }
